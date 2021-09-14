@@ -35,6 +35,8 @@ AX1201728SG Driver Controler
 13: CWCCW_C 27: CWCWW_A
 14: Fscx_C  28: Fscx_A
 
+10K potentiometer
+
 Arduino Uno with Arduino 1.8.16 IDE
 
 inspired from: https://guy.carpenter.id.au/gaugette/2017/04/29/switecx25-quad-driver-tests/
