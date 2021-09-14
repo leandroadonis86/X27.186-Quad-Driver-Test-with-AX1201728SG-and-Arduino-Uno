@@ -2,7 +2,8 @@
 
 Small and basic .ino file for testing X27.186 Quad Driver Test with AX1201728SG Driver Controler using Arduino Uno. This was inspired from another project https://github.com/clearwater/SwitecX25/tree/X12 but I did myself this code just to have the base to operate with it.
 
-##Components 
+## Components 
+
 ```
 X27 Quad Driver Test
 Drive the motor forward and backwards through 315 degrees
@@ -40,5 +41,6 @@ inspired from: https://guy.carpenter.id.au/gaugette/2017/04/29/switecx25-quad-dr
 coded by: Leandro Silva, 12/09/2021
 ```
 
-##Wiring
+## Wiring
+
 ![wiring](https://user-images.githubusercontent.com/32444168/133330388-b8a7cbf4-41fd-47bc-ac2b-2bc1d511bf70.jpg)
